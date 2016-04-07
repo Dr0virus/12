@@ -232,33 +232,25 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {184018132},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[Televirus v3
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/dr0virus
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+@Electrovirus [Sudo]
+@Maderman [Sponser]
+Teresa & the maleficent [Admin]
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+The maleficent
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@Electrovirus_official [persian]
 
-Our website 
-http://teleseed.seedteam.org/
-]],
+⚠↯π_π↯⚠™]],
     help_text_realm = [[
 Realm Commands:
 
